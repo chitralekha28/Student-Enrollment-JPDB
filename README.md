@@ -9,6 +9,10 @@ The form captures:
 - Birth Date
 - Address
 - Enrollment Date
+
+  <img width="833" height="442" alt="image" src="https://github.com/user-attachments/assets/8544c62a-5a24-4073-b919-5c39153ddc2e" />
+  <img width="946" height="274" alt="image" src="https://github.com/user-attachments/assets/dad5c7da-ff7c-4719-8d21-023ff356e2b7" />
+
 This microproject demonstrates the use of JPDB’s RESTful APIs for real-time data handling without a server-side backend.
 ##  Benefits of Using JsonPowerDB
 - **Ultra-fast CRUD operations**
